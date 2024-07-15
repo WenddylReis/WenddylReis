@@ -1,6 +1,6 @@
 ## Hi there :memo: 
 
-Eu sou o Wenddyl Reis, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou o Wenddyl Reis, sou um Programador Full Stack, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
   - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
